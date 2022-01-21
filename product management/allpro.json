@@ -1,0 +1,284 @@
+[{"ProductID":7631,
+    "Price":805.00,
+    "designation": "NIKE AIR ZOOM PEGASUS",
+    "category": "Chaussures",
+    "availability":[
+        "Rabat"," Tanger", " Casablanca"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"Maroc"
+    },
+    "Productsimege":"https://planetsport.ma/32091-large_default/nike-air-zoom-pegasus-38-1121.jpg"
+    
+    },
+
+{"ProductID":7615,
+    "Price":269.00,
+    "designation": "REBOUND LOW ",
+    "category": "Chaussures",
+    "availability":[
+        "Rabat"," Tanger", " Tetouan"
+    ],
+    "supplier":{
+            "Company_name":"Champion",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/28778-large_default/ChaussuresReboundLow.jpg"
+},
+{"ProductID":8100,
+    "Price":635.00,
+    "designation": "LEGEND 9 CLUB TF 1121",
+    "category": "Chaussures",
+    "availability":[
+        "Tanger", "Agadir","Rabat"
+    ]
+
+    ,
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"Maroc"
+    },
+    "Productsimege":"https://planetsport.ma/32099-large_default/legend-9-club-tf-1121.jpg"
+    },
+{"ProductID":6489,
+    "Price":590.00,
+    "designation": "MIZUNO SPARK 6(M) 1021",
+    "category": "Chaussures",
+       
+    "availability":[
+        "Tanger", "Agadir","Rabat"
+    ]
+    ,
+    "supplier":{
+            "Company_name":"Mizuno",
+            "Adresse":"Espagne"
+    },
+    "Productsimege":"https://planetsport.ma/25727-large_default/mizuno-spark-6m-1021.jpg"
+},
+    
+{"ProductID":7732,    
+    "Price":505.00,
+    "designation": "M NK DF ACD21 PANT KPZ 1121",
+    "category": "BAS",
+    "availability":[
+        "Tanger", "Agadir","Rabat","Casa","Fes"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/32084-large_default/m-nk-df-acd21-pant-kpz-1121.jpg"
+    },
+
+{"ProductID":7609,
+    "Price":400,
+    "designation": "Pantalon Champion 1021",
+    "category": "BAS",
+    "availability":
+    [
+        "Tanger","Rabat","Fes"
+    ],
+    "supplier":{
+            "Company_name":"Champion",
+            "Adresse":"Europe"
+    },
+    "Productsimege":"https://planetsport.ma/27541-large_default/pantalon-champion-1021.jpg"
+  },
+
+{"ProductID":7675,
+    "Price":765.00,
+    "designation": "M J DF AIR FLC PANT 1021",
+    "category": "BAS",
+    "availability":[
+        "Tanger","Rabat","Fes","Tetoun"
+    ],
+    "supplier":{
+            "Company name":"AIR",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/26111-large_default/m-j-df-air-flc-pant-1021.jpg"
+    },
+
+{"ProductID":7463,
+    "Price":630,
+    "designation": "5 AS SHORT GLOPNK",
+    "category": "BAS",
+    "availability":[
+        "Rabat","Fes","Tetoun"
+    ],
+    "supplier":{
+            "Company_name":"lacoste",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/31240-large_default/5-as-short-glopnk.jpg"
+   },
+
+{"ProductID":7677,
+    "Price":355.00,
+    "designation": "NK ELMNTL BKPK - NK AIR 1121",
+    "category": " SACS, SACOCHES",
+    "availability":[
+        "Rabat","Fes","Tetoun","Al Hoceïma","Tanger"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"Maroc"
+    },
+    "Productsimege":"https://planetsport.ma/31983-large_default/nk-elmntl-bkpk-nk-air-1121.jpg"
+   },
+
+{"ProductID":8099,
+    "Price":355.00,
+    "designation": "NK ELMNTL BKPK - NK AIR 1121",
+    "category": " SACS, SACOCHES",
+    "availability":[
+        "Rabat","Tetoun","Tanger"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"Maroc"
+    },
+    "Productsimege":"https://planetsport.ma/31988-large_default/nk-elmntl-bkpk-nk-air-1121.jpg"
+   },
+
+
+{"ProductID":7425,
+    "Price":385.00,
+    "designation": "NK ELMNTL BKPK - FA21 AOP1 1121",
+    "category": "SACS, SACOCHES",
+    "availability":[
+        "Rabat","Tetoun","Tanger","Fes"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/32103-large_default/nk-elmntl-bkpk-fa21-aop1-1121.jpg"
+},
+
+{"ProductID":8102,
+    "Price":84.00 ,
+    "designation": "3S Per An HC 3p WHITEWHITEBLACK01Z",
+    "category": " CHAUSSETTES ",
+    "availability":[
+        "Rabat","Tetoun","Tanger","Fes"
+    ],
+    "supplier":{
+            "Company_name":"Adidas",
+            "Adresse":"Europ"
+    },
+    "Productsimege":"https://planetsport.ma/15742-large_default/3SPerAnHC3pWHITEWHITEBLACK01Z.jpg"
+},
+
+{"ProductID":9964,
+    "Price":115.00,
+    "designation": "U NK MLTPLIER NS 2PR 0920",
+    "category": "CHAUSSETTES",
+    "availability":[
+        "Rabat","Tetoun","Tanger","Fes"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"Maroc"
+    },
+    "Productsimege":"https://planetsport.ma/18644-large_default/UNKMLTPLIERNS2PR0920.jpg"
+},
+
+{"ProductID":10440,
+    "Price":145.00,
+    "designation": "U NK MLTPLIER ANKLE 2PR 1021",
+    "category": "CHAUSSETTES",
+    "availability":[
+        "Rabat","Tanger","Fes"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/25254-large_default/u-nk-mltplier-ankle-2pr-0321.jpg"
+},
+
+{"ProductID":6060,
+    "Price":995.00,
+    "designation": "Veste à Capuche Champion 1021",
+    "category": "VESTES",
+    "availability":[
+        "Rabat","Tanger","Fes","Tetoun","Marakech"
+    ],
+    "supplier":{
+            "Company_name":"Champion",
+            "Adresse":"Italie"
+    },
+   "Productsimege":"https://planetsport.ma/27758-large_default/veste-a-capuche-champion-1021.jpg"
+},
+
+{"ProductID":10448,
+    "Price":995.00,
+    "designation": "Veste à Capuche Champion 1021",
+    "category": "VESTES",
+    
+    "availability":[
+        "Tanger","Agadir","Rabat"
+    ],
+    "supplier":{
+            "Company_name":"Champion",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/27759-large_default/veste-a-capuche-champion-1021.jpg"
+},
+
+{"ProductID":8137,
+    "Price":560,
+    "designation": "M NK DF PACER TOP HZ 1021",
+    "category": "T-SHIRTS",
+    "availability":[
+        "Tanger","Agadir","Rabat"
+    ],
+    "supplier":{
+            "Company_name":"Nike",
+            "Adresse":"Maroc"
+    },
+    "Productsimege":"https://planetsport.ma/27563-large_default/m-nk-df-pacer-top-hz-1021.jpg"
+    },
+{"ProductID":10018,
+    "Price":275.00,
+    "designation": "Bonnet Champion 1021 ",
+    "category": " BONNETS ",
+    "availability":[
+        "Tanger","Agadir","Rabat","Jadida"
+    ]
+    ,
+    "supplier":{
+            "Company_name":"Champion",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/27828-large_default/bonnet-champion-1021.jpg"
+ },
+{"ProductID":5670,
+    "Price":155.00,
+    "designation": "Bonnet Champion 1021",
+    "category": "BONNETS",
+    "availability":[
+        "Tanger","Agadir"," Rabat"," Jadida"
+    ],
+    "supplier":{
+            "Company_name":"Champion",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/27822-large_default/bonnet-champion-1021.jpg"
+},
+{"ProductID":9020,
+    "Price":155.00,
+    "designation": "Bonnet Champion 1021",
+    "category": "BONNETS",
+    "availability":[
+        "Tanger","Agadir","Rabat","Tetouan"
+    ],
+    "supplier":{
+            "Company_name":"Champion",
+            "Adresse":"France"
+    },
+    "Productsimege":"https://planetsport.ma/27827-large_default/bonnet-champion-1021.jpg"
+  }
+]

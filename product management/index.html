@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-sm navbar-dark " id="navbars">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="javascript:void(0)"><img src="logo.png" id="logo"></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mynavbar">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)">MEN</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)">WOMEN</a>
+          </li>
+          <form class="d-flex">
+            <input class="form-control me-2" type="text" placeholder="Search"><i class="fas fa-search"></i>
+          </form>
+        </ul>
+        <ul class="navbar-nav me-auto" id="icons">
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)"><i class="far fa-user"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)"><i class="far fa-heart"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)"><i class="fas fa-shopping-bag"></i></a>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </nav>
+
+
+
+
+  <nav class="navbar navbar-expand-sm navbar-dark " id="navbar2">
+    <div class="container-fluid" id="mynavbar2">
+      <div>
+        <a class="nav-link" id="snd" href="javascript:void(0)">NEW HERE? Get 30% off everything!* <br>
+          With code: IMNEW</a>
+      </div>
+    </div>
+    </div>
+  </nav>
+
+  <main>
+    <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel" id="carousels">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active"
+          aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000">
+          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5e53cf133168407.61b7f32158d30.jpg"
+            class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block" id="fstCaresol">
+            <p id="promo">SALE: LAST CHANCE</p>
+            <h1 id="sale">EXTRA 15% OFF SALE WITH <br> PROMO CODE: EXTRA15%</h1>
+            <button type="button" class="btn btn" id="fstbut">SHOP MEN</button>
+            <button type="button" class="btn btn" id="scdbut">SHOP WOMEN</button>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/75a79e119614249.60a1aaf3146be.png"
+            class="d-block w-100" id="sndimg">
+          <div class="carousel-caption d-none d-md-block">
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/f559ca133996207.61cb60d49d6be.png"
+            class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Third slide label</h5>
+            <p>Some representative placeholder content for the third slide.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <div class="container">
+      <div class="row" id="brands">
+        <div class="col">
+          <img src="https://image.keller-sports.com/storage/products/67/FF/67FFA4BAA9E8A3D075E16D361D85593B.svg" alt="">
+        </div>
+        <div class="col">
+          <img src="https://planetsport.ma/img/m/308-small_default.jpg" alt="">
+        </div>
+        <div class="col">
+          <img src="https://image.keller-sports.com/storage/products/E1/2F/E12F567ADA7D292306D72ADF204EEC7A.svg" alt="">
+        </div>
+        <div class="col">
+          <img src="https://planetsport.ma/img/m/299-small_default.jpg" alt="">
+        </div>
+        <div class="col">
+          <img src="https://image.keller-sports.com/storage/products/17/3A/173A61346867C2F4E8F784EF110301EF.svg" alt="">
+        </div>
+        <div class="col">
+          <img src="https://image.keller-sports.com/storage/products/F8/58/F8587F90B16DE6FC872D54E2AA1853CA.svg" alt="">
+        </div>
+      </div>
+    </div>
+    <div class="input-group" id="formdiv">
+      <input type="search"  placeholder="Search" aria-label="Search"
+         id="formserch" />
+    </div>
+    <ul class="list-group" id="results"></ul>
+    <table class="table" id="tables">
+      <thead>
+        <tr>
+          <th>Product ID</th>
+          <th>Price</th>
+          <th>designation</th>
+          <th>Imege</th>
+          <th>Category</th>
+          <th>Availability</th>
+          <th>Supplier</th>
+          <th>Shop</th>
+
+        </tr>
+      </thead>
+      <tbody >
+        
+      </tbody>
+    </table>
+    
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

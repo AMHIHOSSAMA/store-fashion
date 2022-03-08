@@ -1,0 +1,47 @@
+INSERT INTO produit (`idProduit`, `libelle`, `description`, `prix`,`stock`,`image`)
+ VALUES
+ (1542,"Sugar Face Hydrating Mist","A shortcut to the way your skin looks after a full skincare routine—dewy, glowing, cared-for—in one long-wearing product
+Nourishing oils (that don’t feel greasy) immediately give you a gleamy, well-moisturized look that lasts up to 12 hours",$20.00,23,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/sugar-face-01_590x.jpg?v=1614685878"),
+ 
+ (6492, "Love in the Mist Perfume", "This signature perfume oil, has now been delicately blended into a Eau de Parfum. Bloom’s unique scent and hard-to-find status has made it one of the most sought-after fragrances by those in the know.", $80.00,8,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/love-mist-01_590x.jpg?v=1614685398"),
+ 
+ (2051, "Good Morning Moonflower Cleanser", "We bring you truly natural, cruelty free skincare that provides results you can see and feel. We also believe skincare should smell and feel amazing and add enjoyment to your daily routine.", $30.00,8,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/goodmorning-moonflower-01_590x.jpg?v=1579182633"),
+ 
+ (6211, "Day After Dark Body Balm", "We bring you truly natural, cruelty free skincare that provides results you can see and feel. We also believe skincare should smell and feel amazing and add enjoyment to your daily routine.", $12.00,12,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/day-after-dark-03_22af2d73-f96d-4edb-971c-65f6b7c8af42_590x.jpg?v=1580316333"),
+ 
+ (4851, "Blue Water Botanical Serum", "We bring you truly natural, cruelty free skincare that provides results you can see and feel. We also believe skincare should smell and feel amazing and add enjoyment to your daily routine.", $36.00,7,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/blue-water-serum-01_590x.jpg?v=1579181909"),
+
+ (1212, "Bleeding Heart Perfume", "We bring you truly natural, cruelty free skincare that provides results you can see and feel. We also believe skincare should smell and feel amazing and add enjoyment to your daily routine.", $45.00,15,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/bleeding-heart-01_590x.jpg?v=1579182319"),
+ 
+ 
+ 
+ 
+ 
+ 
+  (5330, "Bed of Roses Face Cream", "We bring you truly natural, cruelty free skincare that provides results you can see and feel. We also believe skincare should smell and feel amazing and add enjoyment to your daily routine.", $45.00,00,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/bed-roses-01_590x.jpg?v=1579882367"),
+ 
+ (0998, "Baltic Birch Face Daily Mask ", "We bring you truly natural, cruelty free skincare that provides results you can see and feel. We also believe skincare should smell and feel amazing and add enjoyment to your daily routine.", $30.00,3,"https://cdn.shopify.com/s/files/1/0305/4770/5995/products/love-mist-01_590x.jpg?v=1614685398"),
+
+
+
+
+
+ (8122, "Antioxidant Detox Serum", " Oil-free detox serum absorbs quickly into the skin. Suggested for daily use to detoxify the skin of not only traditionally targeted oxygen free radicals and also ones caused by Carbon and Nitrogen. This product leaves the skin deeply detoxified and better positioned to absorb and utilize active ingredients from serums, oils and moisturizers.This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $25.00,15,"https://cdn.shopify.com/s/files/1/0880/2126/products/black-oil-default_1100x.jpg?v=1625688647"),
+
+ (9330, "Immunity Serum", "Hydrating anti-aging face serum made from the drippings of eco-friendly Ayurvedic fruit.  The most deeply moisturizing serum available, this product absorbs easily to nourish the skin so it can fight outside aggressors.This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $45.00,20,"https://cdn.shopify.com/s/files/1/0880/2126/products/amber-drop-default_1100x.jpg?v=1625688745"),
+
+ (4442, "Balance Serum", "Moisturizing face serum made from the drippings of eco-friendly papaya rinds.  The most deeply moisturizing serum available, this product will leave you feeling like a jellyfish dipped in peanut oil.  This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $45.00,17,"https://cdn.shopify.com/s/files/1/0880/2126/products/dropper-square-deafault_1100x.jpg?v=1625688827"),
+
+(4872, "Brightening Essence", "Natural essence that brightens and corrects for a radiant complexion. Prepares the skin for maximum absorption of treatments that follow. Corrects dullness, dark spots, or uneven skin tone. This product helps with various signs of skin sensitivities such as irritation, redness and stress to give your skin a gorgeous, youthful looking glow. This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $45.00,27,"https://cdn.shopify.com/s/files/1/0880/2126/products/bath-default_1100x.jpg?v=1625688686"),
+(0230, "Cleansing Toner", "Moisturizing cleansing toner made from the drippings of eco-friendly chamomile and witch hazel.  The most deeply moisturizing cleanser and toner available, this product will leave you with a totally calm and collected complexion. This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $45.00,00,"https://cdn.shopify.com/s/files/1/0880/2126/products/bottle_1100x.jpg?v=1625688716"),
+
+
+(9477, "Hyaluronic Moisturizer", " Weightless water moisturizer made from the drippings of eco-friendly chia seed water.  The most deeply moisturizing water moisturizer available, this product will leave you feeling like a jellyfish dipped in peanut oil.  This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $35.00,10,"https://cdn.shopify.com/s/files/1/0880/2126/products/pump-default_1100x.jpg?v=1625688738"),
+
+(4210, " CONTOURING SERUM", " Weightless water moisturizer made from the drippings of eco-friendly chia seed water.  The most deeply moisturizing water moisturizer available, this product will leave you feeling like a jellyfish dipped in peanut oil.  This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $25.00,00,"https://cdn.shopify.com/s/files/1/0880/2126/products/pump-plastic-default_1100x.jpg?v=1625688721"),
+
+(9412, "Recovery Serum", " Weightless water moisturizer made from the drippings of eco-friendly chia seed water.  The most deeply moisturizing water moisturizer available, this product will leave you feeling like a jellyfish dipped in peanut oil.  This is just a demo store to advertise the Pipeline Theme.  Photography via Creative Market and Unsplash.  We don't actually sell grooming products.", $35.00,17,"https://cdn.shopify.com/s/files/1/0880/2126/products/tall-bottle-default_1100x.jpg?v=1625688791"),
+
+ 
+ 
+ ;
